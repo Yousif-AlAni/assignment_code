@@ -1,4 +1,4 @@
-lass
+class
 Customer:
 """This class stores customer details"""
 
